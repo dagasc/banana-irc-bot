@@ -1,4 +1,4 @@
-<b>Banana Python3 Lightweight IRC Bot</b>
+# <b>Banana Python3 Lightweight IRC Bot</b>
 
 Features:
 - ADMIN invite-only channel joining
